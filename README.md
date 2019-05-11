@@ -1,5 +1,5 @@
 # rp++ fish completion
 
 ```
-fisher add owlinux1000/rp++_fish_completion
+fisher add owlinux1000/rp_fish_completion
 ```
